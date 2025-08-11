@@ -26,7 +26,8 @@ Currently building my QA portfolio while actively seeking a **Junior QA Tester**
 
 ### Bug Reports
 - [BA User Authentication – Bug Reports (PDF)](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/a5758f445a391dd0610749aa322caf675c379109/Bug%20Reports/BA_UA_Bug_Reports.pdf)
-
+### Checklists
+- [BA Authentication — Checklist (Excel)](https://github.com/Ekaterina-U-tester/QA-Portfolio/raw/912d1ee26f646046ac5f783e628e08fc88df76f1/Checklists/BA_Authentication_Checklist.xlsx)
 ---
 
 ##  Contact
