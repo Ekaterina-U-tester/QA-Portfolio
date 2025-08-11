@@ -19,23 +19,24 @@ Currently building my QA portfolio while actively seeking a **Junior QA Tester**
 
 ---
 
+Below are examples of my practical QA work, showcasing my ability to design and execute tests, document defects, and follow structured testing processes.
 ##  Portfolio
 
 ### Test Cases
 - [BA User Authentication – Test Cases (Excel)](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/main/Test%20Cases/BA_TestCases_User%20Authentication.xlsx)
- Detailed manual test cases for British Airways authentication functionality, covering positive, negative, and edge scenarios.
+Detailed manual test cases for British Airways authentication functionality, covering positive, negative, and edge scenarios.
 ### Bug Reports
 - [BA User Authentication – Bug Reports (PDF)](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/a5758f445a391dd0610749aa322caf675c379109/Bug%20Reports/BA_UA_Bug_Reports.pdf)
- Bug reports created based on executed test cases, including clear reproduction steps, expected vs. actual results, and severity levels.
+Bug reports created based on executed test cases, including clear reproduction steps, expected vs. actual results, and severity levels.
 ### Checklists
 - [BA Authentication — Checklist (Excel)](https://github.com/Ekaterina-U-tester/QA-Portfolio/raw/912d1ee26f646046ac5f783e628e08fc88df76f1/Checklists/BA_Authentication_Checklist.xlsx)
- Checklist covering functional and usability aspects of the authentication process.
+Checklist covering functional and usability aspects of the authentication process.
 ### Test Plan
-- [BA Authentication — Test Plan](Test%20Plan/BA_Authentication_Test_Plan.md)
- Test plan outlining scope, objectives, testing approach, and exit criteria for BA authentication testing.
+- [BA Authentication — Test Plan](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/main/BA_Authentication_Test_Plan.md)
+Test plan outlining scope, objectives, testing approach, and exit criteria for BA authentication testing.
 ---
 
 ##  Contact
 - **Email:** ekateriina.ushakova@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/ekaterina-ushakova/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ekaterina-ushakova/)
 - **GitHub:** [github.com/Ekaterina-U-tester](https://github.com/Ekaterina-U-tester)
