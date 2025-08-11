@@ -1,6 +1,6 @@
-# 🧪 QA Portfolio – Ekaterina Ushakova
+#  QA Portfolio – Ekaterina Ushakova
 
-## 👩‍💻 About Me
+##  About Me
 I am a certified QA Software Tester with a strong foundation in manual testing, test case design, and bug reporting.  
 I have practical experience in **exploratory testing**, where I investigate application behavior, identify usability issues, and uncover edge cases.  
 I learn quickly (completed ISTQB certification in under 3 months) and enjoy working on detailed, user-focused testing scenarios.  
@@ -8,7 +8,7 @@ Currently building my QA portfolio while actively seeking a **Junior QA Tester**
 
 ---
 
-## 🛠 Skills
+##  Skills
 - **Testing Types:** Functional, Usability, Exploratory, Regression
 - **Test Artifacts:** Test Cases, Checklists, Bug Reports
 - **Test Design Techniques:** Boundary Value Analysis, Equivalence Partitioning, State Transition Testing
@@ -19,7 +19,7 @@ Currently building my QA portfolio while actively seeking a **Junior QA Tester**
 
 ---
 
-## 📂 Portfolio
+##  Portfolio
 
 ### Test Cases
 - [BA User Authentication – Test Cases (Excel)](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/main/Test%20Cases/BA_TestCases_User%20Authentication.xlsx)
@@ -29,7 +29,7 @@ Currently building my QA portfolio while actively seeking a **Junior QA Tester**
 
 ---
 
-## 📬 Contact
+##  Contact
 - **Email:** ekateriina.ushakova@gmail.com
 - **LinkedIn:** (https://www.linkedin.com/in/ekaterina-ushakova/)
 - **GitHub:** [github.com/Ekaterina-U-tester](https://github.com/Ekaterina-U-tester)
