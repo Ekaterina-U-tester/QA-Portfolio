@@ -22,7 +22,7 @@ Currently building my QA portfolio while actively seeking a **Junior QA Tester**
 Below are examples of my practical QA work, showcasing my ability to design and execute tests, document defects, and follow structured testing processes.
 ##  Portfolio
 
-- [ISTQB Certified Tester – Foundation Level](https://github.com/Ekaterina-U-tester/QA-Portfolio/raw/main/Certificates/ISTQB_Certificate_Ekaterina_Ushakova.pdf)
+- [ISTQB Certified Tester – Foundation Level](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/main/ISTQB_Certificate/ISTQB_Certificate.pdf)
 
 ### Test Cases
 - [BA User Authentication – Test Cases (Excel)](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/main/Test%20Cases/BA_TestCases_User%20Authentication.xlsx)
