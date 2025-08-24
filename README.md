@@ -25,7 +25,7 @@ Below are examples of my practical QA work, showcasing my ability to design and 
 - [ISTQB Certified Tester – Foundation Level](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/main/ISTQB_Certificate/ISTQB_Certificate.pdf)
 
 ### Test Cases
-- [BA User Authentication – Test Cases (Excel)](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/main/Test%20Cases/BA_TestCases_User%20Authentication.xlsx)
+- [BA User Authentication – Test Cases (Excel)](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/5b6108818acda764ef358b6ddf65afb61f400b72/BA_Test_Cases/BA_Test_Cases.xlsx)
 Detailed manual test cases for British Airways authentication functionality, covering positive, negative, and edge scenarios.
 ### Bug Reports
 - [BA User Authentication – Bug Reports (PDF)](https://github.com/Ekaterina-U-tester/QA-Portfolio/blob/a5758f445a391dd0610749aa322caf675c379109/Bug%20Reports/BA_UA_Bug_Reports.pdf)
